@@ -4,6 +4,7 @@ USDX is a BEP-20 utility token deployed on the BNB Smart Chain.
 
 The project is focused on peer-to-peer transfers, transparency,
 and experimental on-chain use cases within the BSC ecosystem.
+USDX is designed as an on-chain utility token on BNB Smart Chain for peer-to-peer transfers, experimentation, and interactions with decentralized apps.
 
 ## Token Information
 - Name: USDX
