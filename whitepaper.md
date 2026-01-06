@@ -24,4 +24,4 @@ The project does not provide investment guarantees.
 
 ## Contact
 Email: joiytasaklieem@gmail.com
-Telegram: https://t.me/USDX_Team
+Telegram:https://t.me/usdxteam
